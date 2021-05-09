@@ -598,11 +598,11 @@ PlayerSettings:
   m_MobileRenderingPath: 1
   metroPackageName: DNAHoloLenseTest
   metroPackageVersion: 1.0.0.0
-  metroCertificatePath: 
+  metroCertificatePath: Assets\WSATestCertificate.pfx
   metroCertificatePassword: 
-  metroCertificateSubject: 
-  metroCertificateIssuer: 
-  metroCertificateNotAfter: 0000000000000000
+  metroCertificateSubject: DefaultCompany
+  metroCertificateIssuer: DefaultCompany
+  metroCertificateNotAfter: 80bbc78d4563d801
   metroApplicationDescription: Template_3D
   wsaImages: {}
   metroTileShortName: HoloLenseDNA

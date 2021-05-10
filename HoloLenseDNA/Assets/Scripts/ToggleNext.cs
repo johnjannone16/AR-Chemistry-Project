@@ -33,6 +33,10 @@ public class ToggleNext : MonoBehaviour
 
     public void toggleLeft()
     {
+        //reset parent object location, position and local scale when the button is pressed
+        moleculeList[index].transform.position = new Vector3(0f, 0f, 0.5f);
+        moleculeList[index].transform.rotation = new Quaternion(0, 0, 0, 0);
+        moleculeList[index].transform.localScale = new Vector3(1, 1, 1);
         //toggle off current model
         moleculeList[index].SetActive(false);
         index--;

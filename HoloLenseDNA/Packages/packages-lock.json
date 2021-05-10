@@ -1,5 +1,53 @@
 {
   "dependencies": {
+    "com.microsoft.azure.object-anchors.runtime": {
+      "version": "file:MixedReality/com.microsoft.azure.object-anchors.runtime-0.9.0.tgz",
+      "depth": 0,
+      "source": "local-tarball",
+      "dependencies": {}
+    },
+    "com.microsoft.azure.remote-rendering": {
+      "version": "file:MixedReality/com.microsoft.azure.remote-rendering-1.0.6.tgz",
+      "depth": 0,
+      "source": "local-tarball",
+      "dependencies": {}
+    },
+    "com.microsoft.azure.spatial-anchors-sdk.android": {
+      "version": "file:MixedReality/com.microsoft.azure.spatial-anchors-sdk.android-2.9.0.tgz",
+      "depth": 0,
+      "source": "local-tarball",
+      "dependencies": {
+        "com.unity.xr.arcore": "4.0.12",
+        "com.microsoft.azure.spatial-anchors-sdk.core": "2.9.0"
+      }
+    },
+    "com.microsoft.azure.spatial-anchors-sdk.core": {
+      "version": "file:MixedReality/com.microsoft.azure.spatial-anchors-sdk.core-2.9.0.tgz",
+      "depth": 0,
+      "source": "local-tarball",
+      "dependencies": {
+        "com.unity.subsystemregistration": "1.0.6",
+        "com.unity.xr.arsubsystems": "4.0.8",
+        "com.unity.xr.arfoundation": "4.0.12"
+      }
+    },
+    "com.microsoft.azure.spatial-anchors-sdk.ios": {
+      "version": "file:MixedReality/com.microsoft.azure.spatial-anchors-sdk.ios-2.9.0.tgz",
+      "depth": 0,
+      "source": "local-tarball",
+      "dependencies": {
+        "com.unity.xr.arkit": "4.0.12",
+        "com.microsoft.azure.spatial-anchors-sdk.core": "2.9.0"
+      }
+    },
+    "com.microsoft.azure.spatial-anchors-sdk.windows": {
+      "version": "file:MixedReality/com.microsoft.azure.spatial-anchors-sdk.windows-2.9.0.tgz",
+      "depth": 0,
+      "source": "local-tarball",
+      "dependencies": {
+        "com.microsoft.azure.spatial-anchors-sdk.core": "2.9.0"
+      }
+    },
     "com.microsoft.mixedreality.toolkit.examples": {
       "version": "file:MixedReality/com.microsoft.mixedreality.toolkit.examples-2.6.1.tgz",
       "depth": 0,
@@ -120,9 +168,40 @@
         "com.unity.modules.imgui": "1.0.0"
       }
     },
-    "com.unity.xr.arsubsystems": {
-      "version": "4.0.9",
+    "com.unity.xr.arcore": {
+      "version": "4.0.12",
       "depth": 1,
+      "source": "registry",
+      "dependencies": {
+        "com.unity.xr.arsubsystems": "4.0.12",
+        "com.unity.xr.management": "4.0.1",
+        "com.unity.modules.androidjni": "1.0.0"
+      },
+      "url": "https://packages.unity.com"
+    },
+    "com.unity.xr.arfoundation": {
+      "version": "4.0.12",
+      "depth": 1,
+      "source": "registry",
+      "dependencies": {
+        "com.unity.xr.arsubsystems": "4.0.12",
+        "com.unity.xr.management": "4.0.1"
+      },
+      "url": "https://packages.unity.com"
+    },
+    "com.unity.xr.arkit": {
+      "version": "4.0.12",
+      "depth": 1,
+      "source": "registry",
+      "dependencies": {
+        "com.unity.xr.arsubsystems": "4.0.12",
+        "com.unity.xr.management": "4.0.1"
+      },
+      "url": "https://packages.unity.com"
+    },
+    "com.unity.xr.arsubsystems": {
+      "version": "4.0.12",
+      "depth": 2,
       "source": "registry",
       "dependencies": {
         "com.unity.subsystemregistration": "1.0.6"

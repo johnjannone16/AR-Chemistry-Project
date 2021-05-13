@@ -1,0 +1,416 @@
+Using pre-set license
+Built from '2020.3/staging' branch; Version is '2020.3.4f1 (0abb6314276a) revision 703331'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Education; OS build 19042.928; Version 2009; 64bit' Language: 'en' Physical Memory: 65433 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+D:\Unity\2020.3.4f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+E:/Studio4/DNA/AR-Chemistry-Project/AndroidDNA
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+55709
+Successfully changed project path to: E:/Studio4/DNA/AR-Chemistry-Project/AndroidDNA
+E:/Studio4/DNA/AR-Chemistry-Project/AndroidDNA
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 66.48 ms, found 3 plugins.
+Preloading 1 native plugins for Editor in 9.41 ms.
+Initialize engine version: 2020.3.4f1 (0abb6314276a)
+[Subsystems] Discovering subsystems at path D:/Unity/2020.3.4f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path E:/Studio4/DNA/AR-Chemistry-Project/AndroidDNA/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce RTX 2080 SUPER (ID=0x1e81)
+    Vendor:   
+    VRAM:     8010 MB
+    Driver:   27.21.14.6172
+Initialize mono
+Mono path[0] = 'D:/Unity/2020.3.4f1/Editor/Data/Managed'
+Mono path[1] = 'D:/Unity/2020.3.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'D:/Unity/2020.3.4f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56088
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: D:/Unity/2020.3.4f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: D:/Unity/2020.3.4f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.001697 seconds.
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 59.35 ms, found 3 plugins.
+Preloading 1 native plugins for Editor in 0.08 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.800 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.003609 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 57.89 ms, found 3 plugins.
+Preloading 1 native plugins for Editor in 0.08 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.692 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.06 seconds
+Refreshing native plugins compatible for Editor in 0.87 ms, found 3 plugins.
+Preloading 1 native plugins for Editor in 0.07 ms.
+Unloading 2683 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 108.0 MB.
+System memory in use after: 108.2 MB.
+
+Unloading 43 unused Assets to reduce memory usage. Loaded Objects now: 3097.
+Total: 3.032000 ms (FindLiveObjects: 0.436200 ms CreateObjectMapping: 0.127800 ms MarkObjects: 2.315700 ms  DeleteObjects: 0.150500 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/MixedRealityToolkit.Generated
+  artifactKey: Guid(9868e6ae92e2be042b8149a117a83181) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MixedRealityToolkit.Generated using Guid(9868e6ae92e2be042b8149a117a83181) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '49f79ea671f11cdbb2ac66f595e6f632') in 0.010699 seconds
+  Import took 0.015169 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000221 seconds.
+  path: Assets/MRTK
+  artifactKey: Guid(1af7275bce579224fa71b7bf4e4990a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MRTK using Guid(1af7275bce579224fa71b7bf4e4990a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '426b0ce3ead4c32540a19bae56565db9') in 0.006381 seconds
+  Import took 0.010500 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000195 seconds.
+  path: Assets/MixedRealityToolkit.Generated/ProjectPreferences.asset
+  artifactKey: Guid(f7ee59639d242ea4c96842f12774f59a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MixedRealityToolkit.Generated/ProjectPreferences.asset using Guid(f7ee59639d242ea4c96842f12774f59a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '93388dc29029cb48b0f5f42e9516af6a') in 0.042833 seconds
+  Import took 0.046974 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000217 seconds.
+  path: Assets/AzureSpatialAnchors.SDK
+  artifactKey: Guid(9b075b9038fea2c418206467e35a1968) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AzureSpatialAnchors.SDK using Guid(9b075b9038fea2c418206467e35a1968) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '219e5513ebfc8dc3d3f6c4e63ccae2da') in 0.006670 seconds
+  Import took 0.010799 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.365677 seconds.
+  path: Assets/AzureSpatialAnchors.SDK/Resources
+  artifactKey: Guid(ec83c6a14a26a2d47ba5d29fdc9443d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AzureSpatialAnchors.SDK/Resources using Guid(ec83c6a14a26a2d47ba5d29fdc9443d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '746fac689ca81567ead54765b25e4989') in 0.006357 seconds
+  Import took 0.010713 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000438 seconds.
+  path: Assets/AzureSpatialAnchors.SDK/Resources
+  artifactKey: Guid(ec83c6a14a26a2d47ba5d29fdc9443d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AzureSpatialAnchors.SDK/Resources using Guid(ec83c6a14a26a2d47ba5d29fdc9443d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '746fac689ca81567ead54765b25e4989') in 0.002188 seconds
+  Import took 0.006136 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.335808 seconds.
+  path: Assets/XR
+  artifactKey: Guid(1d1490e2e507a8c4d99f657b8408b9c6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/XR using Guid(1d1490e2e507a8c4d99f657b8408b9c6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0957c28dea15c589c0e9b5416249a822') in 0.012649 seconds
+  Import took 0.016891 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.174175 seconds.
+  path: Assets/XR/XRGeneralSettings.asset
+  artifactKey: Guid(8d69c629371672a448bcca6e93152fb3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/XR/XRGeneralSettings.asset using Guid(8d69c629371672a448bcca6e93152fb3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'faf242386ca6239d9b59d952689123c8') in 0.007985 seconds
+  Import took 0.012375 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.319607 seconds.
+  path: Assets/Scenes
+  artifactKey: Guid(68463bc634cb2ea48a5c7b026f0adc3d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes using Guid(68463bc634cb2ea48a5c7b026f0adc3d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '32d1bca32ed5efdd7fe7540e4dfc9f60') in 0.006841 seconds
+  Import took 0.011187 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000476 seconds.
+  path: Assets/Scenes
+  artifactKey: Guid(68463bc634cb2ea48a5c7b026f0adc3d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes using Guid(68463bc634cb2ea48a5c7b026f0adc3d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '32d1bca32ed5efdd7fe7540e4dfc9f60') in 0.001979 seconds
+  Import took 0.006223 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 25.655028 seconds.
+  path: Assets/MixedRealityToolkit.Generated/MRTK.Generated.sentinel
+  artifactKey: Guid(c23b4f468ff3d8d4093398f963255548) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MixedRealityToolkit.Generated/MRTK.Generated.sentinel using Guid(c23b4f468ff3d8d4093398f963255548) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7a86b3da8003e80d083cf6d80370ff72') in 0.008705 seconds
+  Import took 0.013066 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 45.917633 seconds.
+  path: Packages/com.microsoft.azure.object-anchors.runtime
+  artifactKey: Guid(174b90f55ff66e738c9d662cb52c8860) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.microsoft.azure.object-anchors.runtime using Guid(174b90f55ff66e738c9d662cb52c8860) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c166896c5b17e88dc8c5a36648769c68') in 0.006896 seconds
+  Import took 0.011184 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.819196 seconds.
+  path: Packages/com.microsoft.mixedreality.toolkit.foundation
+  artifactKey: Guid(45c36d6cf9c1aec87cb81b0a991c9e97) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.microsoft.mixedreality.toolkit.foundation using Guid(45c36d6cf9c1aec87cb81b0a991c9e97) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3a908f1680c1932ae7e35e1b9b42fdd3') in 0.006431 seconds
+  Import took 0.010732 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000400 seconds.
+  path: Packages/com.microsoft.mixedreality.toolkit.foundation
+  artifactKey: Guid(45c36d6cf9c1aec87cb81b0a991c9e97) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.microsoft.mixedreality.toolkit.foundation using Guid(45c36d6cf9c1aec87cb81b0a991c9e97) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3a908f1680c1932ae7e35e1b9b42fdd3') in 0.002127 seconds
+  Import took 0.006081 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.348385 seconds.
+  path: Packages/com.microsoft.mixedreality.toolkit.standardassets
+  artifactKey: Guid(752a3a82d278146ff6b4061d4be44323) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.microsoft.mixedreality.toolkit.standardassets using Guid(752a3a82d278146ff6b4061d4be44323) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5e27fda35284047ccc3a32678f3665d0') in 0.006548 seconds
+  Import took 0.010922 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000704 seconds.
+  path: Packages/com.microsoft.mixedreality.toolkit.standardassets
+  artifactKey: Guid(752a3a82d278146ff6b4061d4be44323) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.microsoft.mixedreality.toolkit.standardassets using Guid(752a3a82d278146ff6b4061d4be44323) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5e27fda35284047ccc3a32678f3665d0') in 0.001912 seconds
+  Import took 0.005927 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.355944 seconds.
+  path: Packages/com.microsoft.mixedreality.toolkit.standardassets/package.json
+  artifactKey: Guid(3c876f4ed6a6d014387c52b7a0f1752a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.microsoft.mixedreality.toolkit.standardassets/package.json using Guid(3c876f4ed6a6d014387c52b7a0f1752a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eb7050881cb51964d2dfb5fee3259a56') in 0.009119 seconds
+  Import took 0.013464 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.387110 seconds.
+  path: Packages/com.microsoft.mixedreality.toolkit.standardassets/Fonts
+  artifactKey: Guid(24f9c5a6075b435890a36a0f7ba38718) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.microsoft.mixedreality.toolkit.standardassets/Fonts using Guid(24f9c5a6075b435890a36a0f7ba38718) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8c5a6ecfe67d54f52dc6828588d3c31b') in 0.006741 seconds
+  Import took 0.011085 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000277 seconds.
+  path: Packages/com.microsoft.mixedreality.toolkit.standardassets/Fonts
+  artifactKey: Guid(24f9c5a6075b435890a36a0f7ba38718) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.microsoft.mixedreality.toolkit.standardassets/Fonts using Guid(24f9c5a6075b435890a36a0f7ba38718) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8c5a6ecfe67d54f52dc6828588d3c31b') in 0.001926 seconds
+  Import took 0.005850 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.286423 seconds.
+  path: Packages/com.microsoft.mixedreality.toolkit.standardassets/EditorUtilities
+  artifactKey: Guid(9d0a5976f05b106438254198566dafd8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.microsoft.mixedreality.toolkit.standardassets/EditorUtilities using Guid(9d0a5976f05b106438254198566dafd8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bc369af1a74653c4da64c237513c1dec') in 0.006596 seconds
+  Import took 0.010839 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000795 seconds.
+  path: Packages/com.microsoft.mixedreality.toolkit.standardassets/EditorUtilities
+  artifactKey: Guid(9d0a5976f05b106438254198566dafd8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.microsoft.mixedreality.toolkit.standardassets/EditorUtilities using Guid(9d0a5976f05b106438254198566dafd8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bc369af1a74653c4da64c237513c1dec') in 0.001919 seconds
+  Import took 0.005925 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.245235 seconds.
+  path: Packages/com.microsoft.mixedreality.toolkit.standardassets/Audio
+  artifactKey: Guid(a725dc666d93482abb094d384a8a968c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.microsoft.mixedreality.toolkit.standardassets/Audio using Guid(a725dc666d93482abb094d384a8a968c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '642878fd9fcdc7946f3c6507c9b2810a') in 0.006899 seconds
+  Import took 0.011224 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000607 seconds.
+  path: Packages/com.microsoft.mixedreality.toolkit.standardassets/Audio
+  artifactKey: Guid(a725dc666d93482abb094d384a8a968c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.microsoft.mixedreality.toolkit.standardassets/Audio using Guid(a725dc666d93482abb094d384a8a968c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '642878fd9fcdc7946f3c6507c9b2810a') in 0.001955 seconds
+  Import took 0.005981 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.284906 seconds.
+  path: Packages/com.microsoft.mixedreality.toolkit.standardassets/FontsSDFTextures
+  artifactKey: Guid(b19b56dab3a0c79489e000b63097f2b7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.microsoft.mixedreality.toolkit.standardassets/FontsSDFTextures using Guid(b19b56dab3a0c79489e000b63097f2b7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ad207ab845da90acfbf4a98a2d584257') in 0.006582 seconds
+  Import took 0.010944 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000477 seconds.
+  path: Packages/com.microsoft.mixedreality.toolkit.standardassets/FontsSDFTextures
+  artifactKey: Guid(b19b56dab3a0c79489e000b63097f2b7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.microsoft.mixedreality.toolkit.standardassets/FontsSDFTextures using Guid(b19b56dab3a0c79489e000b63097f2b7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ad207ab845da90acfbf4a98a2d584257') in 0.001921 seconds
+  Import took 0.005934 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.365724 seconds.
+  path: Packages/com.microsoft.mixedreality.toolkit.standardassets/Materials
+  artifactKey: Guid(345c55d33e334e57aecb29e986efa92e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.microsoft.mixedreality.toolkit.standardassets/Materials using Guid(345c55d33e334e57aecb29e986efa92e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5f7b6726556463c076423e69b8101769') in 0.006583 seconds
+  Import took 0.010826 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000453 seconds.
+  path: Packages/com.microsoft.mixedreality.toolkit.standardassets/Materials
+  artifactKey: Guid(345c55d33e334e57aecb29e986efa92e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.microsoft.mixedreality.toolkit.standardassets/Materials using Guid(345c55d33e334e57aecb29e986efa92e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5f7b6726556463c076423e69b8101769') in 0.002203 seconds
+  Import took 0.006162 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.313605 seconds.
+  path: Packages/com.microsoft.mixedreality.toolkit.standardassets/Icons
+  artifactKey: Guid(5ad4765a472444e4b839a31003c1d088) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.microsoft.mixedreality.toolkit.standardassets/Icons using Guid(5ad4765a472444e4b839a31003c1d088) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5648b0fe18e2877d4058ecba863ed9f7') in 0.006646 seconds
+  Import took 0.010932 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.431372 seconds.
+  path: Packages/com.unity.subsystemregistration/package.json
+  artifactKey: Guid(39ae12a67d2824dda9cb95e774ab4ab1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.subsystemregistration/package.json using Guid(39ae12a67d2824dda9cb95e774ab4ab1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f2e526c6fd849aa49f2c3e5963044ed7') in 0.002526 seconds
+  Import took 0.006812 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.686455 seconds.
+  path: Packages/com.unity.test-framework/package.json
+  artifactKey: Guid(d6a2e6e4803de7b43baacdc355fc144d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.test-framework/package.json using Guid(d6a2e6e4803de7b43baacdc355fc144d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c9dd1f35a5ff9cf11a7f36847ce181fb') in 0.008381 seconds
+  Import took 0.012621 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.733425 seconds.
+  path: Packages/com.unity.timeline/package.json
+  artifactKey: Guid(13a9c1b4df2e489e8eb9cacca7429596) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.timeline/package.json using Guid(13a9c1b4df2e489e8eb9cacca7429596) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '425bb9eb6746bc63509bda2dcbe703a2') in 0.008605 seconds
+  Import took 0.012851 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.609403 seconds.
+  path: Packages/com.unity.textmeshpro/package.json
+  artifactKey: Guid(220e9325710f4235a43492dd1ee4980d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.textmeshpro/package.json using Guid(220e9325710f4235a43492dd1ee4980d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e3a32247993763ed35463502bcfadbfa') in 0.008504 seconds
+  Import took 0.012758 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 256.212845 seconds.
+  path: Packages/com.unity.xr.arcore
+  artifactKey: Guid(b5535c8cdad0b403484acc25f137f8ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.xr.arcore using Guid(b5535c8cdad0b403484acc25f137f8ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '67d76eb248051882a0dbdcb63ea354b7') in 0.008185 seconds
+  Import took 0.012732 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.308024 seconds.
+  path: Packages/com.microsoft.azure.spatial-anchors-sdk.core
+  artifactKey: Guid(1f9393ea7dedad498ca52db82ff8f001) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.microsoft.azure.spatial-anchors-sdk.core using Guid(1f9393ea7dedad498ca52db82ff8f001) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2b43bddfe6a6cdb4137df83df5f6cb8d') in 0.006904 seconds
+  Import took 0.011088 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000614 seconds.
+  path: Packages/com.microsoft.azure.spatial-anchors-sdk.core
+  artifactKey: Guid(1f9393ea7dedad498ca52db82ff8f001) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.microsoft.azure.spatial-anchors-sdk.core using Guid(1f9393ea7dedad498ca52db82ff8f001) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2b43bddfe6a6cdb4137df83df5f6cb8d') in 0.001963 seconds
+  Import took 0.005779 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.825347 seconds.
+  path: Packages/com.microsoft.azure.spatial-anchors-sdk.core/package.json
+  artifactKey: Guid(c06d7cbbd87dcbd41b5d4305becee69c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.microsoft.azure.spatial-anchors-sdk.core/package.json using Guid(c06d7cbbd87dcbd41b5d4305becee69c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2f356d172ab525f7191ca9858a4e5ff3') in 0.002525 seconds
+  Import took 0.006769 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.297455 seconds.
+  path: Packages/com.microsoft.azure.spatial-anchors-sdk.android
+  artifactKey: Guid(5723f6a1fc34b0a3478090e10991c38c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.microsoft.azure.spatial-anchors-sdk.android using Guid(5723f6a1fc34b0a3478090e10991c38c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fca22aa3969661a7f2d01408bd6f10ae') in 0.006651 seconds
+  Import took 0.010847 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.056891 seconds.
+  path: Packages/com.microsoft.azure.spatial-anchors-sdk.android/package.json
+  artifactKey: Guid(28b02a05124795948b89f82e2a9299f5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.microsoft.azure.spatial-anchors-sdk.android/package.json using Guid(28b02a05124795948b89f82e2a9299f5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'df34118350b806cbc3c872c0d76e3877') in 0.002518 seconds
+  Import took 0.006768 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.770469 seconds.
+  path: Packages/com.microsoft.azure.spatial-anchors-sdk.core/Runtime
+  artifactKey: Guid(312e5333166dc7a4e8d76950c61922ad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.microsoft.azure.spatial-anchors-sdk.core/Runtime using Guid(312e5333166dc7a4e8d76950c61922ad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '07e52957de42577c2d7ad850404548ac') in 0.006680 seconds
+  Import took 0.011023 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.070407 seconds.
+  path: Packages/com.microsoft.azure.spatial-anchors-sdk.core/Runtime/AzureSpatialAnchors.SDK.Core.Runtime.asmdef
+  artifactKey: Guid(33d8827e6b886c24980a9ae3153d16c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.microsoft.azure.spatial-anchors-sdk.core/Runtime/AzureSpatialAnchors.SDK.Core.Runtime.asmdef using Guid(33d8827e6b886c24980a9ae3153d16c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2d1cc59fd4461c71b8d1820c6efae68b') in 0.008344 seconds
+  Import took 0.012715 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.865469 seconds.
+  path: Packages/com.microsoft.azure.spatial-anchors-sdk.core/Editor
+  artifactKey: Guid(4d91a4b5b83a2d44d850eb0c99e6de4f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.microsoft.azure.spatial-anchors-sdk.core/Editor using Guid(4d91a4b5b83a2d44d850eb0c99e6de4f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '71dddf92894ee637c6bfa62530a00389') in 0.006781 seconds
+  Import took 0.011003 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000526 seconds.
+  path: Packages/com.microsoft.azure.spatial-anchors-sdk.core/Editor
+  artifactKey: Guid(4d91a4b5b83a2d44d850eb0c99e6de4f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.microsoft.azure.spatial-anchors-sdk.core/Editor using Guid(4d91a4b5b83a2d44d850eb0c99e6de4f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '71dddf92894ee637c6bfa62530a00389') in 0.002073 seconds
+  Import took 0.005894 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.052619 seconds.
+  path: Packages/com.microsoft.azure.spatial-anchors-sdk.core/Editor/AzureSpatialAnchors.SDK.Core.Editor.asmdef
+  artifactKey: Guid(12089c0fe89ad5349a720c7d35c0c6a6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.microsoft.azure.spatial-anchors-sdk.core/Editor/AzureSpatialAnchors.SDK.Core.Editor.asmdef using Guid(12089c0fe89ad5349a720c7d35c0c6a6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9e1964ab1af5e35110e66bb130d4ec6b') in 0.006592 seconds
+  Import took 0.010835 seconds .
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
